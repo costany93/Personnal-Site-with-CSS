@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+.container-height{
+	height: 600px;
+	position: relative;
+	border-bottom: 2px solid #cccccc;
+}
+
+
+h2{
+	font-family: 'Dancing Script';
+}
+.top-container h1{
+	margin: auto 0;
+}
+.text-top-container{
+	width: 30%;
+	position: absolute;
+	left: 35%;
+	bottom: 50%;
+
+}
+.top-container p{
+	font-family: 'Dancing Script';
+}
+
+
+.top-container{
+	background-color: red;
+	background-image: url("../images/back.jpg");
+	background-size: 100%;
+	
+}
+.middle-container{
+	background-color: #eeeeee;
+}
+.bottom-container{
+	
+}
