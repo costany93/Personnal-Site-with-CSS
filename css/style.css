@@ -1,0 +1,20 @@
+/*
+	font-family: 'Raleway', sans-serif;
+*/
+
+/*Single balise*/
+body{
+	margin: 0;
+}
+
+
+/*Globale style of each section*/
+.section-header{
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	font-size: 4rem;
+}
+.section{
+	height: 700px;
+}
+
